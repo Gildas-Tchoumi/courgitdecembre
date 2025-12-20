@@ -21,3 +21,11 @@ p {
     text-decoration: line-through;
     color: red;
 }
+
+p {
+    color: black;
+}
+
+p {
+    color: yellow;
+}
