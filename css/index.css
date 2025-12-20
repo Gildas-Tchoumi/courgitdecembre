@@ -6,3 +6,8 @@ body {
 p{
     color: blue;
 }
+
+h2{
+    font-size: 25px;
+    color: yellow;
+}
