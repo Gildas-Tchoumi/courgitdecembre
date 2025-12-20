@@ -3,6 +3,10 @@ body {
     padding: 0;
 }
 
+p{
+    color: blue;
+}
+
 p {
     text-decoration: line-through;
     color: red;
